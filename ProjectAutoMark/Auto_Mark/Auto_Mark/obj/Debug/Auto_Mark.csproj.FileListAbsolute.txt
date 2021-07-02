@@ -1,0 +1,14 @@
+C:\Users\chutr\OneDrive\Desktop\ProjectAutoMark\Auto_Mark\Auto_Mark\bin\Debug\Auto_Mark.exe
+C:\Users\chutr\OneDrive\Desktop\ProjectAutoMark\Auto_Mark\Auto_Mark\bin\Debug\Auto_Mark.pdb
+C:\Users\chutr\OneDrive\Desktop\ProjectAutoMark\Auto_Mark\Auto_Mark\obj\Debug\Auto_Mark.csprojAssemblyReference.cache
+C:\Users\chutr\OneDrive\Desktop\ProjectAutoMark\Auto_Mark\Auto_Mark\obj\Debug\Auto_Mark.Form1.resources
+C:\Users\chutr\OneDrive\Desktop\ProjectAutoMark\Auto_Mark\Auto_Mark\obj\Debug\Auto_Mark.Properties.Resources.resources
+C:\Users\chutr\OneDrive\Desktop\ProjectAutoMark\Auto_Mark\Auto_Mark\obj\Debug\Auto_Mark.csproj.GenerateResource.cache
+C:\Users\chutr\OneDrive\Desktop\ProjectAutoMark\Auto_Mark\Auto_Mark\obj\Debug\Auto_Mark.csproj.CoreCompileInputs.cache
+C:\Users\chutr\OneDrive\Desktop\ProjectAutoMark\Auto_Mark\Auto_Mark\obj\Debug\Auto_Mark.exe
+C:\Users\chutr\OneDrive\Desktop\ProjectAutoMark\Auto_Mark\Auto_Mark\obj\Debug\Auto_Mark.pdb
+C:\Users\chutr\OneDrive\Desktop\ProjectAutoMark\Auto_Mark\Auto_Mark\bin\Debug\Auto_Mark.exe.config
+C:\Users\chutr\OneDrive\Desktop\ProjectAutoMark\Auto_Mark\Auto_Mark\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\chutr\OneDrive\Desktop\ProjectAutoMark\Auto_Mark\Auto_Mark\obj\Debug\Auto_Mark.Mainform.resources
+C:\Users\chutr\OneDrive\Desktop\ProjectAutoMark\Auto_Mark\Auto_Mark\obj\Debug\Auto_Mark.csproj.CopyComplete
+C:\Users\chutr\OneDrive\Desktop\ProjectAutoMark\Auto_Mark\Auto_Mark\obj\Debug\Auto_Mark.AutoMark.resources
